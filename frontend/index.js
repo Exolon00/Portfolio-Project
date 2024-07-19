@@ -1,6 +1,5 @@
-
 function downloadResume() {
-  window.location.href = './src/resume.pdf'; 
+  window.open('./src/resume1.pdf', '_blank');
 }
 
 document.addEventListener("DOMContentLoaded", function () {
